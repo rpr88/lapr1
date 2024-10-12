@@ -4,11 +4,12 @@
   "created_by": "rpr88",
   "title": "Latin American Press Review, Program 1973-01",
   "slug": "latin-american-press",
-  "updated_at": "2024-10-12T20:29:29.325Z",
+  "updated_at": "2024-10-12T20:29:37.193Z",
   "updated_by": "rpr88",
   "autogenerate": {
     "enabled": false,
     "type": "event",
     "type_id": "271cc376-98f7-4fa7-b739-51f453ec8df7"
-  }
+  },
+  "parent": "5388862a-766b-4bdf-8637-52f7b324833e"
 }

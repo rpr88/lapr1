@@ -1,0 +1,23 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "TBD"
+        }
+      ]
+    }
+  ],
+  "title": "HOME",
+  "parent": "5388862a-766b-4bdf-8637-52f7b324833e",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "home",
+  "created_at": "2024-10-12T20:24:43.276Z",
+  "created_by": "rpr88",
+  "updated_at": "2024-10-12T20:24:43.276Z",
+  "updated_by": "rpr88"
+}

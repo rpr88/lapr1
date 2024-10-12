@@ -1,0 +1,28 @@
+{
+  "audiovisual_files": {
+    "2590f54c-6bad-4629-b8b2-4f430008ee54": {
+      "label": "txu-oclc-768426768-1973-01",
+      "is_offline": false,
+      "file_url": "https://utexas.box.com/shared/static/9cnkndi6uhr5p0w1dd4d2bssvlnppems.mp3",
+      "duration": 1715
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The following segment summaries were generated using ChatGPT. Part I: Panama exerts diplomatic pressure on US through the UN Security Council meeting in 1971 regarding Panamanian sovereignty and jurisdiction over the Canal Zone; Internal struggles and ideological divisions within Chile's Popular Unity government; Brazilian Bishops denounce human rights violations and discrimination under military government; Upcoming Chile-US talks on financial disputes; Latin American nations oppose Britain's Organization of American States observer status. Part II: This week's feature delves into the ongoing conflict between multinational corporations and Latin American nationalist governments, using the case of ITT's involvement in Chile as a focal point. The recent resurgence of ITT's secret memorandums has underscored the immense influence these corporations wield in the region. Senate hearings revealed ITT's extensive efforts to protect its investments in Chile, including lobbying the Nixon Administration and potentially supporting a coup against President Allende. Despite these efforts, ITT failed to prevent Allende's election. The situation highlights the complex dynamics between corporations and governments in Latin America, with nationalist sentiments often challenging corporate interests."
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Latin American Press Review, Program 1973-01",
+  "created_at": "2024-10-12T20:29:19.486Z",
+  "created_by": "rpr88",
+  "updated_at": "2024-10-12T20:29:19.486Z",
+  "updated_by": "rpr88"
+}

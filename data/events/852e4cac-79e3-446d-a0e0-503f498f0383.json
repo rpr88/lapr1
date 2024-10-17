@@ -1,0 +1,28 @@
+{
+  "audiovisual_files": {
+    "093137af-de48-4b90-9312-1be5ad237360": {
+      "label": "txu-oclc-768426768-1973-01",
+      "is_offline": false,
+      "file_url": "https://utexas.box.com/shared/static/9cnkndi6uhr5p0w1dd4d2bssvlnppems.mp3",
+      "duration": 1715
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Latin American Press Review, Program 1973-01",
+  "created_at": "2024-10-17T22:32:05.372Z",
+  "created_by": "rpr88",
+  "updated_at": "2024-10-17T22:32:05.372Z",
+  "updated_by": "rpr88"
+}
